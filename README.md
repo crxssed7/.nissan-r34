@@ -24,7 +24,7 @@
 - htop
 - nano
 - VSCodium ([Wal Theme](https://marketplace.visualstudio.com/items?itemName=dlasagno.wal-theme))
-- LibreOffice Write ([Oomox Gtk Theme](https://github.com/themix-project/oomox))
+- LibreOffice Writer ([Oomox Gtk Theme](https://github.com/themix-project/oomox))
 
 ## Credits:
 - Car Owner: phucdatbich_. [Instagram](https://www.instagram.com/phucdatbich_/)
