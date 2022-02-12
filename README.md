@@ -13,6 +13,7 @@
 - Launcher: Rofi
 - Font[0]: JetBrains Mono Nerd Font
 - Font[1]: Noto Sans CJK JP
+- GTK Themer: Oomox
 
 ## Screenshots
 ![Screenshot 1](/screenshots/screenshot_1.png)
